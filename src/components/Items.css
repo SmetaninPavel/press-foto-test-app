@@ -1,0 +1,22 @@
+.container {
+  width: 960px;
+  margin: 0 auto;
+  margin-bottom: 50px;
+}
+
+.image-counter {
+  text-align: left;
+  padding: 20px 0;
+  font-weight: 600;
+  font-size: 11px;
+  color: #525252;
+}
+
+.items-box {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  min-height: 530px;
+}
